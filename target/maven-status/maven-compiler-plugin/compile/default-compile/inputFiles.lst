@@ -1,3 +1,6 @@
-/home/vlad/Desktop/package-burst/src/main/java/vlad/bartolomei/package_burst/Config.java
-/home/vlad/Desktop/package-burst/src/main/java/vlad/bartolomei/package_burst/Controller.java
-/home/vlad/Desktop/package-burst/src/main/java/vlad/bartolomei/package_burst/PackageBurstApplication.java
+/Users/vladbarto/Documents/PERSONAL_PROJECTS/BurstPack/src/main/java/vlad/bartolomei/package_burst/Config.java
+/Users/vladbarto/Documents/PERSONAL_PROJECTS/BurstPack/src/main/java/vlad/bartolomei/package_burst/FileController.java
+/Users/vladbarto/Documents/PERSONAL_PROJECTS/BurstPack/src/main/java/vlad/bartolomei/package_burst/FileService.java
+/Users/vladbarto/Documents/PERSONAL_PROJECTS/BurstPack/src/main/java/vlad/bartolomei/package_burst/OSUtils.java
+/Users/vladbarto/Documents/PERSONAL_PROJECTS/BurstPack/src/main/java/vlad/bartolomei/package_burst/PackageBurstApplication.java
+/Users/vladbarto/Documents/PERSONAL_PROJECTS/BurstPack/src/main/java/vlad/bartolomei/package_burst/Presentation.java

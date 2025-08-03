@@ -14,3 +14,4 @@ server:
   error:
     whitelabel:
       enabled: false
+  receive-endpoint: "/control/receive"
